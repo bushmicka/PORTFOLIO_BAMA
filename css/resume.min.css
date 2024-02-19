@@ -40,7 +40,7 @@ h2 {
   color: #495057;
 }
 .list-social-icons a:hover {
-  color: #bd5d38;
+  color: #8064a2;
 }
 .list-social-icons a .fa-lg {
   font-size: 1.75rem;
@@ -49,7 +49,7 @@ h2 {
   font-size: 3rem;
 }
 .list-icons .list-inline-item i:hover {
-  color: #bd5d38;
+  color: #8064a2;
 }
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 600;
@@ -117,16 +117,16 @@ section.resume-section .resume-item .resume-date {
   }
 }
 .bg-primary {
-  background-color: #bd5d38 !important;
+  background-color: #8064a2 !important;
 }
 .text-primary {
-  color: #bd5d38 !important;
+  color: #8064a2 !important;
 }
 a {
-  color: #bd5d38;
+  color: #8064a2;
 }
 a:active,
 a:focus,
 a:hover {
-  color: #824027;
+  color: #8064a2;
 }
